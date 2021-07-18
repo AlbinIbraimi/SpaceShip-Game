@@ -1,0 +1,11 @@
+C:\Users\albin\source\repos\SpaceShip Game\bin\Debug\SpaceShip Game.exe.config
+C:\Users\albin\source\repos\SpaceShip Game\bin\Debug\SpaceShip Game.exe
+C:\Users\albin\source\repos\SpaceShip Game\bin\Debug\SpaceShip Game.pdb
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip_Game.Form1.resources
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip_Game.Properties.Resources.resources
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip Game.csproj.GenerateResource.cache
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip Game.csproj.CoreCompileInputs.cache
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip Game.exe
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip Game.pdb
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip_Game.PlayGame.resources
+C:\Users\albin\source\repos\SpaceShip Game\obj\Debug\SpaceShip Game.csprojAssemblyReference.cache
